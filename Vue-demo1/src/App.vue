@@ -3,6 +3,7 @@
     <Header></Header>
     <Mainer></Mainer>
     <Footer></Footer>
+    <!-- <button></button> -->
   </div>
 </template>
 
@@ -23,8 +24,10 @@ export default {
 
 <style>
 .App {
-  height: 100px;
-  width: 100px;
-  background-color:blue;
+  height: 600px;
+  width: 700px;
+  background-color:rgb(149, 149, 218);
+  margin: 0 auto;
+  padding: 20px;
 }
 </style>

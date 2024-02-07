@@ -1,6 +1,7 @@
 <template>
   <div class="footer">
     footer
+    <Button></Button>
   </div>
 </template>
 
@@ -12,8 +13,10 @@ export default {
 
 <style>
 .footer {
-  height: 20px;
-  width: 100px;
-  background-color: red;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 30px;
+  background-color: rgb(0, 162, 255);
 }
 </style>
